@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.inner {
+    padding: 100px 0;
+}
+
+h1, h2, h3, h4, h5, p, a {
+    color: #28262C;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-bottom: 20px;
+}
